@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1563692309 source:/home/rohit/MinMaxTicTacToe/main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
